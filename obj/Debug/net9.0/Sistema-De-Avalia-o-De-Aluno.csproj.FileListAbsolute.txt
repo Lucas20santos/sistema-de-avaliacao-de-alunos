@@ -1,0 +1,15 @@
+/home/lucas/Documentos/Repositorio/Sistema-De-Avalia-o-De-Aluno/bin/Debug/net9.0/Sistema-De-Avalia-o-De-Aluno
+/home/lucas/Documentos/Repositorio/Sistema-De-Avalia-o-De-Aluno/bin/Debug/net9.0/Sistema-De-Avalia-o-De-Aluno.deps.json
+/home/lucas/Documentos/Repositorio/Sistema-De-Avalia-o-De-Aluno/bin/Debug/net9.0/Sistema-De-Avalia-o-De-Aluno.runtimeconfig.json
+/home/lucas/Documentos/Repositorio/Sistema-De-Avalia-o-De-Aluno/bin/Debug/net9.0/Sistema-De-Avalia-o-De-Aluno.dll
+/home/lucas/Documentos/Repositorio/Sistema-De-Avalia-o-De-Aluno/bin/Debug/net9.0/Sistema-De-Avalia-o-De-Aluno.pdb
+/home/lucas/Documentos/Repositorio/Sistema-De-Avalia-o-De-Aluno/obj/Debug/net9.0/Sistema-De-Avalia-o-De-Aluno.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/Repositorio/Sistema-De-Avalia-o-De-Aluno/obj/Debug/net9.0/Sistema-De-Avalia-o-De-Aluno.AssemblyInfoInputs.cache
+/home/lucas/Documentos/Repositorio/Sistema-De-Avalia-o-De-Aluno/obj/Debug/net9.0/Sistema-De-Avalia-o-De-Aluno.AssemblyInfo.cs
+/home/lucas/Documentos/Repositorio/Sistema-De-Avalia-o-De-Aluno/obj/Debug/net9.0/Sistema-De-Avalia-o-De-Aluno.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/Repositorio/Sistema-De-Avalia-o-De-Aluno/obj/Debug/net9.0/Sistema-De-Avalia-o-De-Aluno.sourcelink.json
+/home/lucas/Documentos/Repositorio/Sistema-De-Avalia-o-De-Aluno/obj/Debug/net9.0/Sistema-De-Avalia-o-De-Aluno.dll
+/home/lucas/Documentos/Repositorio/Sistema-De-Avalia-o-De-Aluno/obj/Debug/net9.0/refint/Sistema-De-Avalia-o-De-Aluno.dll
+/home/lucas/Documentos/Repositorio/Sistema-De-Avalia-o-De-Aluno/obj/Debug/net9.0/Sistema-De-Avalia-o-De-Aluno.pdb
+/home/lucas/Documentos/Repositorio/Sistema-De-Avalia-o-De-Aluno/obj/Debug/net9.0/Sistema-De-Avalia-o-De-Aluno.genruntimeconfig.cache
+/home/lucas/Documentos/Repositorio/Sistema-De-Avalia-o-De-Aluno/obj/Debug/net9.0/ref/Sistema-De-Avalia-o-De-Aluno.dll
